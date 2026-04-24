@@ -180,6 +180,19 @@ export default function HomePage() {
 
       <Reviews />
 
+      <section className="py-16 bg-white dark:bg-gray-900">
+        <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
+          <p className="text-sm text-gray-500 dark:text-gray-400 mb-4 uppercase tracking-wider">Trusted Partner</p>
+          <Image
+            src="/images/promo-logo-2.jpeg"
+            alt="So Flo Promo Logo"
+            width={400}
+            height={150}
+            className="mx-auto"
+          />
+        </div>
+      </section>
+
       <section className="py-20 md:py-28 bg-white dark:bg-gray-900">
         <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-12">
