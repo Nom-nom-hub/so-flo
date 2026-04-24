@@ -20,9 +20,9 @@ export const metadata: Metadata = {
     "paver sealing Fort Myers",
     "pressure washing Cape Coral",
     "sealing pavers",
-    "pressure wash driveway",
+    "pressure wash patio",
     "pool deck sealing",
-    "driveway cleaning",
+    "patio cleaning",
   ],
   openGraph: {
     title: "So Flo | Paver Installation, Sealing & Pressure Washing",

@@ -34,7 +34,7 @@ const posts = [
   },
   {
     slug: "pressure-washing-guide",
-    title: "When and How to Pressure Wash Your Driveway",
+    title: "When and How to Pressure Wash Your Patio",
     excerpt: "Professional pressure washing removes stains and buildup. Learn the best practices for cleaning your pavers safely.",
     image: "/images/completed-pool-deck-3.JPEG",
     category: "Pressure Washing",

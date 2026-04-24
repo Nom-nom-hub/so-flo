@@ -100,7 +100,7 @@ export default function HomePage() {
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 max-w-5xl mx-auto">
             <ServiceCard
               title="Paver Installation"
-              description="Professional paver installation for driveways, patios, pool decks, and more."
+              description="Professional paver installation for patios, pool decks, and more."
               imageSrc="/images/completed-pool-deck-pavers.JPEG"
               imageAlt="Professional paver installation in Cape Coral"
               link="/services"

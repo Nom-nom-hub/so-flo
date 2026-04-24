@@ -8,12 +8,12 @@ export const metadata: Metadata = {
 };
 
 const installationServices = [
-  "Driveways",
   "Patios & Pool Decks",
   "Walkways & Entryways",
   "Outdoor Kitchens",
   "Retaining Walls",
-  "Fire Pits"
+  "Fire Pits",
+  "Custom Designs"
 ];
 
 const installationBenefits = [
@@ -65,7 +65,7 @@ export default function ServicesPage() {
                 Professional Paver Installation
               </h2>
               <p className="text-gray-600 dark:text-gray-300 mb-8 text-lg">
-                Transform your outdoor space with professional paver installation. We install driveways, patios, pool decks, and more.
+                Transform your outdoor space with professional paver installation. We install patios, pool decks, walkways, and more.
               </p>
 
               <h3 className="font-semibold text-gray-900 dark:text-white mb-4">What We Install</h3>
@@ -227,7 +227,7 @@ export default function ServicesPage() {
 
             <div className="bg-gray-100 dark:bg-gray-800 rounded-2xl overflow-hidden card-hover">
               <div className="relative h-56">
-                <Image src="/images/diveway-before-and-after-sealer.JPEG" alt="Driveway transformation" fill className="object-cover" />
+                <Image src="/images/completed-pool-deck-pavers.JPEG" alt="Pool deck transformation" fill className="object-cover" />
               </div>
               <div className="p-6">
                 <p className="text-sky-600 dark:text-sky-400 font-semibold mb-1">Result</p>

@@ -15,7 +15,7 @@ const reviews: Review[] = [
     name: "Michael T.",
     location: "Cape Coral, FL",
     rating: 5,
-    text: "Absolutely fantastic work! They installed our driveway and it looks amazing. The crew was professional, on time, and finished ahead of schedule. Highly recommend!",
+    text: "Absolutely fantastic work! They installed our pool deck and it looks amazing. The crew was professional, on time, and finished ahead of schedule. Highly recommend!",
     service: "Paver Installation"
   },
   {

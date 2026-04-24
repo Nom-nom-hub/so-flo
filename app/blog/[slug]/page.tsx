@@ -10,7 +10,7 @@ const slugTitles: Record<string, string> = {
   "why-seal-your-pavers": "Why Sealing Your Pavers Is Essential in Florida's Climate",
   "choose-right-pavers": "How to Choose the Right Pavers for Your Florida Home",
   "maintain-pavers": "5 Easy Ways to Maintain Your Pavers Year-Round",
-  "pressure-washing-guide": "When and How to Pressure Wash Your Driveway",
+  "pressure-washing-guide": "When and How to Pressure Wash Your Patio",
   "pool-deck-pavers": "Best Pavers for Pool Decks in Southwest Florida",
   "sanding-pavers": "The Importance of Joint Sand in Paver Installation",
 };
@@ -145,7 +145,7 @@ While you can rent a pressure washer, professional washing:
 ## Our Pressure Washing Services
 
 So Flo offers professional pressure washing for:
-- Driveways
+- Patios
 - Patios & Pool Decks
 - Walkways
 - House Exteriors
