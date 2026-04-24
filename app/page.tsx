@@ -183,9 +183,9 @@ export default function HomePage() {
       <section className="py-16 bg-gray-50 dark:bg-gray-800">
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center space-y-6">
           <p className="text-sm text-gray-500 dark:text-gray-400 uppercase tracking-wider">Our Brands</p>
-          <div className="flex flex-col sm:flex-row items-center justify-center gap-12">
-            <Image src="/images/promo-logo.jpeg" alt="So Flo" width={400} height={150} className="h-24 w-auto" />
-            <Image src="/images/promo-logo-2.jpeg" alt="So Flo" width={400} height={150} className="h-24 w-auto" />
+          <div className="flex flex-col sm:flex-row items-center justify-center gap-16">
+            <Image src="/images/promo-logo.jpeg" alt="So Flo" width={600} height={250} className="h-40 w-auto" />
+            <Image src="/images/promo-logo-2.jpeg" alt="So Flo" width={600} height={250} className="h-40 w-auto" />
           </div>
         </div>
       </section>
