@@ -181,11 +181,16 @@ export default function HomePage() {
       <Reviews />
 
       <section className="py-16 bg-gray-50 dark:bg-gray-800">
-        <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center space-y-6">
+        <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 text-center space-y-6">
           <p className="text-sm text-gray-500 dark:text-gray-400 uppercase tracking-wider">Our Brands</p>
           <div className="flex flex-col sm:flex-row items-center justify-center gap-16">
             <Image src="/images/promo-logo.jpeg" alt="So Flo" width={1200} height={500} className="h-80 w-auto" />
             <Image src="/images/promo-logo-2.jpeg" alt="So Flo" width={1200} height={500} className="h-80 w-auto" />
+            <span className="text-6xl font-bold">
+              <span className="text-sky-500 animate-pulse drop-shadow-[0_0_10px_rgba(14,165,233,0.8)]">So</span>
+              <span className="text-gray-800 dark:text-white animate-pulse drop-shadow-[0_0_10px_rgba(255,255,255,0.5)]">Flo</span>
+              <sup className="text-xl align-super">&copy;</sup>
+            </span>
           </div>
         </div>
       </section>
