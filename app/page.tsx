@@ -182,10 +182,9 @@ export default function HomePage() {
 
       <section className="py-16 bg-white dark:bg-gray-900">
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-          <p className="text-sm text-gray-500 dark:text-gray-400 mb-4 uppercase tracking-wider">Trusted Partner</p>
           <Image
             src="/images/promo-logo-2.jpeg"
-            alt="So Flo Promo Logo"
+            alt="So Flo"
             width={400}
             height={150}
             className="mx-auto"
