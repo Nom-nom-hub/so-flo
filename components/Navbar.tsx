@@ -28,14 +28,14 @@ export default function Navbar() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between h-16 items-center">
           <div className="flex items-center">
-            <Link href="/" className="flex items-center">
-              <Image
-                src="/images/promo-logo.jpeg"
-                alt="So Flo"
-                width={140}
-                height={50}
-                className="h-10 w-auto"
-              />
+            <Link href="/" className="flex flex-col sm:flex-row sm:items-center group">
+              <span className="text-2xl font-bold tracking-tight leading-none">
+                <span className="text-sky-500 transition-transform group-hover:scale-105 inline-block">So</span>
+                <span className="text-gray-800 dark:text-gray-100 transition-colors">Flo</span>
+              </span>
+              <span className="ml-0 sm:ml-2 mt-0.5 sm:mt-0 sm:border-l sm:border-gray-300 dark:border-gray-600 sm:pl-2 text-xs text-gray-400 dark:text-gray-500">
+                Sealing & Pressure Washing
+              </span>
             </Link>
           </div>
 

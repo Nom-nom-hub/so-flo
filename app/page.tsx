@@ -180,15 +180,13 @@ export default function HomePage() {
 
       <Reviews />
 
-      <section className="py-16 bg-white dark:bg-gray-900">
-        <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-          <Image
-            src="/images/promo-logo-2.jpeg"
-            alt="So Flo"
-            width={400}
-            height={150}
-            className="mx-auto"
-          />
+      <section className="py-16 bg-gray-50 dark:bg-gray-800">
+        <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center space-y-6">
+          <p className="text-sm text-gray-500 dark:text-gray-400 uppercase tracking-wider">Our Brands</p>
+          <div className="flex flex-col sm:flex-row items-center justify-center gap-8">
+            <Image src="/images/promo-logo.jpeg" alt="So Flo" width={200} height={80} className="h-16 w-auto" />
+            <Image src="/images/promo-logo-2.jpeg" alt="So Flo" width={200} height={80} className="h-16 w-auto" />
+          </div>
         </div>
       </section>
 
