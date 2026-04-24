@@ -184,8 +184,8 @@ export default function HomePage() {
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center space-y-6">
           <p className="text-sm text-gray-500 dark:text-gray-400 uppercase tracking-wider">Our Brands</p>
           <div className="flex flex-col sm:flex-row items-center justify-center gap-16">
-            <Image src="/images/promo-logo.jpeg" alt="So Flo" width={600} height={250} className="h-40 w-auto" />
-            <Image src="/images/promo-logo-2.jpeg" alt="So Flo" width={600} height={250} className="h-40 w-auto" />
+            <Image src="/images/promo-logo.jpeg" alt="So Flo" width={1200} height={500} className="h-80 w-auto" />
+            <Image src="/images/promo-logo-2.jpeg" alt="So Flo" width={1200} height={500} className="h-80 w-auto" />
           </div>
         </div>
       </section>
