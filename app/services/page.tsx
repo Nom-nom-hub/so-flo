@@ -10,7 +10,6 @@ export const metadata: Metadata = {
 const installationServices = [
   "Patios & Pool Decks",
   "Walkways & Entryways",
-  "Outdoor Kitchens",
   "Retaining Walls",
   "Fire Pits",
   "Custom Designs"
