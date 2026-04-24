@@ -29,7 +29,7 @@ const reviews: Review[] = [
     name: "James R.",
     location: "Cape Coral, FL",
     rating: 5,
-    text: "Called them for pressure washing and was amazed at the transformation. Our driveway went from dirty to brand new. Will definitely use them again.",
+    text: "Called them for pressure washing and was amazed at the transformation. Our patio went from dirty to brand new. Will definitely use them again.",
     service: "Pressure Washing"
   },
   {
@@ -50,14 +50,14 @@ const reviews: Review[] = [
     name: "Amanda S.",
     location: "Fort Myers, FL",
     rating: 5,
-    text: "Quick response and excellent work! They pressure washed our entire backyard patio and driveway. Would recommend to everyone!",
+    text: "Quick response and excellent work! They pressure washed our entire backyard pool deck and patio. Would recommend to everyone!",
     service: "Pressure Washing"
   },
   {
     name: "Robert H.",
     location: "Cape Coral, FL",
     rating: 5,
-    text: "Great experience from quote to completion. The team was knowledgeable and the pricing was fair. Our new paver driveway is the envy of the neighborhood!",
+    text: "Great experience from quote to completion. The team was knowledgeable and the pricing was fair. Our new paver pool deck is the envy of the neighborhood!",
     service: "Paver Installation"
   },
   {

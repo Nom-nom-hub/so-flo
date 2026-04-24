@@ -177,7 +177,7 @@ export default function ServicesPage() {
               </p>
 
               <ul className="grid grid-cols-1 sm:grid-cols-2 gap-3 mb-8">
-                {["Driveways", "Patios & Pool Decks", "Walkways & Entryways", "House Siding & Exterior", "Fences & Decks"].map((service, i) => (
+                {["Patios & Pool Decks", "Patios & Pool Decks", "Walkways & Entryways", "House Siding & Exterior", "Fences & Decks"].map((service, i) => (
                   <li key={i} className="flex items-center gap-2 text-gray-600 dark:text-gray-300">
                     <svg className="w-5 h-5 text-sky-500 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                       <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />

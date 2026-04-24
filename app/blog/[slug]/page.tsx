@@ -59,7 +59,7 @@ We recommend sealing new pavers within 60-90 days of installation, then every 2-
   "choose-right-pavers": {
     title: "How to Choose the Right Pavers for Your Florida Home",
     category: "Installation",
-    image: "/images/completed-driveway-of-pavers.JPEG",
+    image: "/images/completed-pool-deck-pavers.JPEG",
     content: `
 Choosing the right pavers is important for your home's value and appearance. Here's what to consider:
 

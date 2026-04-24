@@ -11,7 +11,7 @@ const posts = [
   {
     slug: "why-seal-your-pavers",
     title: "Why Sealing Your Pavers Is Essential in Florida's Climate",
-    excerpt: "Florida's hot climate and frequent storms can damage unprotected pavers. Learn why professional sealing is crucial for your driveway and patio.",
+    excerpt: "Not all pavers are created equal. Here's what to consider when selecting pavers for your Cape Coral or Fort Myers property.",
     image: "/images/completed-pool-deck-pavers.JPEG",
     category: "Paver Sealing",
     date: "January 15, 2026"
@@ -20,7 +20,7 @@ const posts = [
     slug: "choose-right-pavers",
     title: "How to Choose the Right Pavers for Your Florida Home",
     excerpt: "Not all pavers are created equal. Here's what to consider when selecting pavers for your Cape Coral or Fort Myers property.",
-    image: "/images/completed-driveway-of-pavers.JPEG",
+    image: "/images/completed-pool-deck-pavers.JPEG",
     category: "Installation",
     date: "January 10, 2026"
   },
