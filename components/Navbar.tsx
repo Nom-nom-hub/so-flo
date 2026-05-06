@@ -3,6 +3,7 @@
 import Link from "next/link";
 import { useState, useEffect } from "react";
 import { useTheme } from "./ThemeProvider";
+import CountdownTimer from "./CountdownTimer";
 
 export default function Navbar() {
   const [isOpen, setIsOpen] = useState(false);
@@ -25,8 +26,15 @@ export default function Navbar() {
           : "bg-white dark:bg-gray-900"
       }`}
     >
+      <div className="bg-sky-500 text-white py-1.5 text-center text-xs font-medium flex items-center justify-center gap-3 animate-pulse">
+        <span className="bg-white/20 px-2 py-0.5 rounded">
+          <CountdownTimer />
+        </span>
+        <span>🔥 <span className="font-semibold">10% OFF</span> Paver Sealing</span>
+        <Link href="/services" className="bg-white text-sky-600 px-2 py-0.5 rounded font-semibold hover:bg-sky-50">Get Quote</Link>
+      </div>
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div className="flex justify-between h-16 items-center">
+        <div className="flex justify-between h-14 items-center">
           <div className="flex items-center">
             <Link href="/" className="flex flex-col sm:flex-row sm:items-center group">
               <span className="text-2xl font-bold tracking-tight leading-none">
